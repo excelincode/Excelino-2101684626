@@ -1,0 +1,4 @@
+Gottlieb Laundromat System Version Beta 0.2
+ExcelinoFernando_2101684626
+WilliamRaharja_2101731351
+BelumDitentukan®

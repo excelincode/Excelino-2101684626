@@ -1,0 +1,6 @@
+a = input("*Please input it like this e.g. 1st_name-2nd_name-3rd_name-Or_so_name\nPlease input the names:")
+print("This is the ORIGINAL names that you have inputted: ")
+print(''.join(a))
+print("This is the SHORT-variations names that you have inputted: ")
+print(''.join(name[0] for name in (a.split("-"))))
+input("Please ENTER to Exit!")

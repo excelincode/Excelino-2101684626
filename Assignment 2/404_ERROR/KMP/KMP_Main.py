@@ -1,6 +1,6 @@
 def Front_End():
     import KMP_Input as a
-    import KMR_Repeat as b
+    import KMP_Repeat as b
     import UNI_Exit as Exit
     import KMP_Welcome as Welcome
     Welcome.Welcome()
